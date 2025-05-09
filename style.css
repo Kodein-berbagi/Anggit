@@ -22,7 +22,8 @@ main {
 h1,
 p {
   color: white;
-}.sosmed {
+}
+.sosmed {
   display: flex;
   align-items: center;
   justify-content: space-between;
